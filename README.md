@@ -1,0 +1,1 @@
+# cordova-statusbar-plugin-ios
